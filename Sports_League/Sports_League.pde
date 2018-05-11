@@ -9,10 +9,19 @@
  }
  void draw(){
    int l = 1;
-   String teamname [] = {"0","BlueWhale","RedWhale","WhiteWhale"};
+    String teamname [] = {"0","BlueWhale","RedWhale","WhiteWhale"};
      int teamwins [] = {0,5,10,2};
       int teamlosses [] = {0,11,6,14};
        int teampoints = teamwins[l]*2;
+       for ( int x = 0; x<3; x++){
+       
+       
+       
+       
+       
+       
+       
+       }
 
     
     
