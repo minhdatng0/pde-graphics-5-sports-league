@@ -13,7 +13,14 @@
      int teamwins [] = {0,5,10,2};
       int teamlosses [] = {0,11,6,14};
        int teampoints = teamwins[l]*2;
-       for ( int x = 0; x<3; x++){
+        for ( int x = 0; x<3; x++){
+         for (int y = 0; y<3; y++){
+         
+         
+         
+         
+         
+         }
        
        
        
