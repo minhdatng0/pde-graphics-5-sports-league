@@ -1,9 +1,9 @@
 /**
- * ASCII-Art-Assignment-2 
+ * Sports League
  * by Minh Dat Ngo
  * 
- * Computer Sci assignment
- * Formarting text output
+ * Computer Sci 10 assignment
+ * pde-graphing-assignment-5
  */
  void setup(){   
  }
