@@ -9,9 +9,7 @@
  }
  void draw(){
    String teamname [] = {"0","BlueWhale","RedWhale","WhiteWhale"};
-     int team1wins = 5;
-     int team2wins = 10;
-     int team3wins = 2;
+     int teamwins [] = {0,5,10,2};
       int team1losses = 11;
       int team2losses = 6;
       int team3losses = 14;
