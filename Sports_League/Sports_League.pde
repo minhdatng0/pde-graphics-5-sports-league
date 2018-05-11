@@ -5,9 +5,13 @@
  * Computer Sci 10 assignment
  * pde-graphing-assignment-5
  */
- void setup(){   
+    PImage img;
+ void setup(){
+   size(600,600);
+   img = loadImage("10.jpg");
  }
  void draw(){
+
    int l = 1;
     String teamname [] = {"0","BlueWhale","RedWhale","WhiteWhale"};
      int teamwins [] = {0,5,10,2};
