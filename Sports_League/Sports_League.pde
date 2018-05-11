@@ -8,9 +8,7 @@
  void setup(){   
  }
  void draw(){
-    String team1name = "BlueWhale";
-    String team2name = "RedWhale";
-    String team3name = "WhiteWhale";
+   String teamname [] = {"0","BlueWhale","RedWhale","WhiteWhale"};
      int team1wins = 5;
      int team2wins = 10;
      int team3wins = 2;
