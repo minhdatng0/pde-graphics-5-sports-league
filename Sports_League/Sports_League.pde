@@ -7,7 +7,7 @@
  */
     PImage img;
  void setup(){
-   size(600,600);
+   size(900,600);
    img = loadImage("10.jpg");
  }
  void draw(){
@@ -19,6 +19,7 @@
        int teampoints = teamwins[l]*2;
         for ( int x = 0; x<3; x++){
          for (int y = 0; y<3; y++){
+          
          
          
          
