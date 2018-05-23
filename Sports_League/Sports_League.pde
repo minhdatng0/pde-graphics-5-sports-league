@@ -20,6 +20,11 @@
         int teampoints = teamwins[l]*2;
          for ( int x = 0; x<3; x++){
           for (int y = 0; y<3; y++){
+            stroke(255);
+            rect(125,76,100,82);
+            rect(125,158,100,82);
+            rect(125,240,100,82);
+            rect(125,322,100,82);
           
          
          
