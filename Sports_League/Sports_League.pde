@@ -24,7 +24,7 @@
             stroke(255);
             line(125,y+l*82,723,y+l*82);
             line(x+l*150,76,x+l*150,404);
-            text(teamname[l],150,212);
+             text(teamname[l],150,212);
           
          
          
