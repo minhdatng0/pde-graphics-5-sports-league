@@ -14,7 +14,7 @@
    image(img, 0, 0);
 
     int l = 1;
-    int x = 325;
+    int x = 125;
     int y = 76;
      String teamname [] = {"0","BlueWhale","RedWhale","WhiteWhale"};
       int teamwins [] = {0,5,10,2};
