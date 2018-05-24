@@ -17,6 +17,7 @@
     int x = 150;
     int y = 76;
     int y1 = 212;
+    int x1[] = {0,150,375,525,675};
      String teamname [] = {"0","BlueWhale","RedWhale","WhiteWhale"};
       int teamwins [] = {0,5,10,2};
        int teamlosses [] = {0,11,6,14};
