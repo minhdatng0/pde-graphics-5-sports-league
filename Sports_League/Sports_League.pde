@@ -13,15 +13,16 @@
  void draw(){
    image(img, 0, 0);
 
-    int l = 0;
+    int l = 1;
     int x = 325;
     int y = 76;
      String teamname [] = {"0","BlueWhale","RedWhale","WhiteWhale"};
       int teamwins [] = {0,5,10,2};
        int teamlosses [] = {0,11,6,14};
         int teampoints = teamwins[l]*2;
-         for (; l < 3; l++){
+         for (; l < 4; l++){
             stroke(255);
+            line(125,y+l*82,723,y+l*82);
 
           
          
