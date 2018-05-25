@@ -37,6 +37,7 @@
              //title
              fill(0);
                text("Team",150,y1);
+             fill(255,0,0);  
                text("Wins",325,y1);
                text("Loss",475,y1);
                text("Points",625,y1);
