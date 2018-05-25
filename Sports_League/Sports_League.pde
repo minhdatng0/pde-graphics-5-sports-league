@@ -20,8 +20,8 @@
      String teamname [] = {"0","BlueWhale","RedWhale","WhiteWhale"};
       int teamwins [] = {0,5,10,2};
        int teamlosses [] = {0,11,6,14};
-        int teampoints = teamwins[l]*2;
          for (; l < 4; l++){
+           int teampoints = teamwins[l]*2;
             stroke(255);
             line(125,y+l*82,723,y+l*82);
             line(x+l*150,76,x+l*150,404);
