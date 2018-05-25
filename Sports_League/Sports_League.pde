@@ -41,6 +41,7 @@
                text("Wins",325,y1);
              fill(0,255,0);
                text("Loss",475,y1);
+             fill(0,0,255);
                text("Points",625,y1);
           
          
