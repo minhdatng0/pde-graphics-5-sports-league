@@ -26,6 +26,7 @@
             line(125,y+l*82,723,y+l*82);
             line(x+l*150,76,x+l*150,404);
              text(teamname[l],150,y1+l*82);
+             text(teamwins[l],325,y1+l*82);
           
          
          
