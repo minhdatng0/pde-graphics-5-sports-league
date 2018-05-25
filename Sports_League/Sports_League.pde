@@ -26,13 +26,14 @@
             line(125,y+l*82,723,y+l*82);
             line(x+l*150,76,x+l*150,404);
              textSize(20);
+             
+             //information
               text(teamname[l],150,y1+l*82);
               text(teamwins[l],325,y1+l*82);
               text(teamlosses[l],475,y1+l*82);
               text(teampoints,625,y1+l*82);
               
-              
-              //title
+             //title
                text("Team",150,y1);
                text("Wins",325,y1);
                text("Loss",475,y1);
