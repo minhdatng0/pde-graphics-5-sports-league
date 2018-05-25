@@ -32,6 +32,7 @@
               text(teampoints,625,y1+l*82);
                text("Team",150,y1);
                text("Wins",325,y1);
+               text("Loss",475,y1);
           
          
          
